@@ -1,16 +1,17 @@
-## Hi there 👋
+## About Me
 
-<!--
-**christbyers/christbyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 10+ years of experience in software development and love the creative and problem-solving aspects of my job from brainstorming ideas to making them real.
 
-Here are some ideas to get you started:
+As a Senior .NET Developer, I'm not just about the tech - I'm here to help businesses thrive. Whether I'm guiding newer developers or working with different groups, I'm all about bringing people together to reach our goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also love learning and growing, taking on new challenges, and making a real impact in the world of software development. Let's work together and make magic happen!
+
+## Skills
+
+- Programming Languages: C#, VB.NET, SQL
+- Web Development: ASP.NET, ASP.NET Core, MVC, Web API
+- Frontend Technologies: HTML5, CSS3, JavaScript, Angular, React
+- Database Management: SQL Server, Entity Framework, LINQ
+- Cloud Technologies: Azure, AWS
+- DevOps: Git, Team Foundation Server (TFS), Jenkins
+- Software Development Methodologies: Agile, Scrum
